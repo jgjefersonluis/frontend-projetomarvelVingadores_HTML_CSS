@@ -168,6 +168,21 @@ header a:hover{
     color:#ebebeb;
 }
 
+footer{
+    padding: 64px 24px;
+    background-color: #111111;
+    color: #ebebeb;
+    text-align: center;
+}
+
+footer a{
+    color: #f13239;
+    transition: color 0.2s;
+}
+
+footer a:hover{
+    color: #ebebeb;
+}
 
 
 
